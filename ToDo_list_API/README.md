@@ -51,8 +51,8 @@ src/
 
 ### 1. Clona este repositorio:
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/Andres15mtzc/ToDo-list-API.git
+cd ToDo_list_API
 ```
 
 ### 2. Crea y activa un entorno virtual:
