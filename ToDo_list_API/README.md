@@ -39,7 +39,7 @@ src/
 
 ---
 
-## 📦 **Requisitos Previos**
+## **Requisitos Previos**
 
 1. Tener instalado [Python 3.11](https://www.python.org/downloads/).
 2. Instalar **pip** y **virtualenv**.
@@ -47,7 +47,7 @@ src/
 
 ---
 
-## ⚙️ **Instalación**
+## **Instalación**
 
 ### 1. Clona este repositorio:
 ```bash
@@ -79,7 +79,7 @@ La API estará disponible en [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ---
 
-## 📝 **Documentación de los Endpoints**
+## **Documentación de los Endpoints**
 
 ### **Autenticación**
 - **POST /register**: Registra un nuevo usuario.  
