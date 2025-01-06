@@ -60,7 +60,7 @@ cd ToDo_list_API
 cd src
 python -m venv <env_name>
 # En Windows:
-env\Scripts\activate
+<env_name>\Scripts\activate
 # En Mac/Linux:
 source <env_name>/bin/activate
 ```
